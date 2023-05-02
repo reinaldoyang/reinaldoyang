@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋 I'm Rei
+📚 Studying Mechanical Engineering at National Taiwan University of Science and Technology
 🔭 I’m currently working on Computer Vision, Robotics, Deep learning
 
 ### Language and tools
