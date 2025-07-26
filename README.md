@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rei
 📚 Bsc Mechanical Engineering @National Taiwan University of Science and Technology
 
-🔭 Passionate about computer vision, deep learning
+🔭 Interested in Robotics, Computer Vision, AI
 
 ### Programming Language
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
