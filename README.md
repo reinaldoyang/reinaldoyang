@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Rei
+📚 Ms Department of Computer Science and Information Engineering Artificial Intelligence Program
 📚 Bsc Mechanical Engineering @National Taiwan University of Science and Technology
 
-🔭 Interested in Robotics, Computer Vision, AI
+🔭 Currently doing research in Robotics, Computer Vision, AI
 
 ### Programming Language
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
