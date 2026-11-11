@@ -1,7 +1,23 @@
-## Hi there 👋 I'm Rei
-📚 Ms Department of Computer Science and Information Engineering Artificial Intelligence Program @National ChengKung University
+# Hi there! 👋 I'm Rei
 
-📚 Bsc Mechanical Engineering @National Taiwan University of Science and Technology
+I'm an M.S. student in **Computer Science (AI Program)** at **National Cheng Kung University (NCKU)**, Taiwan.
 
-🔭 Currently doing research in Robotics, Computer Vision, AI
+My interests lie in **Artificial Intelligence, Machine Learning, and Computer Vision**, with hands-on experience in deep learning, model training, and building real-world AI systems.
 
+## 🎓 Education
+
+- **M.S. in Computer Science (AI Program)**  
+  National Cheng Kung University (NCKU), Taiwan  
+  2025 – 2027 (Expected)
+
+- **B.S. in Mechanical Engineering**  
+  National Taiwan University of Science and Technology (NTUST), Taiwan  
+  2019 – 2023
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Python, C/C++, JavaScript, RISC-V Assembly
+- **AI/ML & Computer Vision:** PyTorch, TensorFlow, OpenCV, Ollama
+- **Robotics & Simulation:** ROS 2, NVIDIA Isaac Sim / Isaac Lab, PyBullet, Unity
+- **Web Development:** React, HTML/CSS
+- **Tools & Platforms:** Git/GitHub, Docker, Linux, Bash
