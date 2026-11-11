@@ -16,8 +16,8 @@ My interests lie in **Artificial Intelligence, Machine Learning, and Computer Vi
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, C/C++, JavaScript, RISC-V Assembly
+- **Programming Languages:** Python, C/C++
 - **AI/ML & Computer Vision:** PyTorch, TensorFlow, OpenCV, Ollama
 - **Robotics & Simulation:** ROS 2, NVIDIA Isaac Sim / Isaac Lab, PyBullet, Unity
-- **Web Development:** React, HTML/CSS
-- **Tools & Platforms:** Git/GitHub, Docker, Linux, Bash
+- **Web Development:** HTML/CSS/JS, React
+- **Systems & Tools:** Linux(Bash), Git/GitHub, Docker, RISC-V Assembly
